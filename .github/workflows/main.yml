@@ -15,4 +15,4 @@ jobs:
              -H "$KEY_HEADER"
              -d "$PAYLOAD"
              -s
-             https://api.reflect.run/v1/suites/CompanyA_Bearstore_testsuite_09112025/executions
+             https://api.reflect.run/v1/suites/companya_bearstore_testsuite_09112025/executions
