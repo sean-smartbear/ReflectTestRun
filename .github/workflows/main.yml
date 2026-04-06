@@ -1,7 +1,5 @@
 name: Merge-Tests
-on:
-  push:
-    branches: [ master ]
+on: workflow_dispatch
 
 env:
   KEY_HEADER: "X-API-KEY: fitBQhtH3J8byZysiGWTsaCychYyo44l8jM3PuUp"
